@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>ELON MUSK</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: blue;
+            text-align: center;
+            background:linear-gradient(135deg, #000000 0%, #808080 100%) ;
+        }
+        .container {
+            background: white;
+            width: 60%;
+            margin: 30px auto;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+        }
+        img {
+            width: 200px;
+            border-radius: 10px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            text-align: justify;
+        }
+        
+        
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>ELON MUSK</h1>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Elon_Musk_Royal_Society.jpg" alt="Foto Elon Musk">
+    <hr/>
+    <p><strong>Nama:</strong> ELON MUSK</p>
+    <p><strong>TTL:</strong> Pretoria, 28 Juni 1971</p>
+    <p><strong>Umur:</strong> 54 Tahun</p>
+    
+    <hr/>
+
+    <h3>Deskripsi</h3>
+    <p>
+        Elon Musk adalah seorang pengusaha dan inovator teknologi kelahiran Afrika Selatan.
+        Ia dikenal sebagai CEO Tesla dan SpaceX. Elon Musk juga merupakan pendiri 
+        perusahaan seperti Neuralink dan The Boring Company. 
+        Ia dikenal karena visinya dalam mengembangkan mobil listrik, 
+        eksplorasi luar angkasa, serta teknologi masa depan.
+    </p>
+    <hr />
+    <p>Alasan Mengidolakan : karena dia adalah pekerja keras dan disiplin </p>
+</div>
+
+</body>
+</html>
